@@ -1,1 +1,2 @@
-# Vojonbilash-Oracle
+This is a Webtech project using PHP and Oracle. Basically, this is an online food order and delivery system. Here we ca find only the customer part of this project. Here, customers can login and register their account. Also, they can select a specific restaurant, can see the food menu and order from the provided food menu. Also, they can see which foods are added in their cart and can remove items from the cart. Furthermore, users can view and edit their profile details, can change their profile picture and password as well.
+![Web](https://github.com/SmBijoy675/Vojonbilash-Oracle/assets/87419144/80b932f9-9079-4f8f-abf0-54b0571dbf63)
